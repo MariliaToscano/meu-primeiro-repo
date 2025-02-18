@@ -2,4 +2,6 @@
 Este é o meu primeiro repositório no GitHub
 
 Fiz uma alteração no repositório remoto.
-a
+
+
+Fiz uma alteraçã no repositório local.
